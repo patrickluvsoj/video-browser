@@ -15,7 +15,7 @@ const useVideos = (defaultTerm) => {
                 q: term
             },
             header: {
-                referer: 'https://video-hook-iota.vercel.app'
+                referer: 'https://modest-mcnulty-2bbe42.netlify.app/'
             }
         });
 
